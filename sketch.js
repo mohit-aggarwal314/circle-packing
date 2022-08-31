@@ -1,5 +1,5 @@
 // Change Image Source for your picture!
-var imgSource = "data/albert-einstein-quotes-jpg.jpg";
+var imgSource = "data/kitten.jpg";
 
 var totalAttempts = 10000; //Number of attempts to add a circle before giving up
 var circlePerUpdate = 10; //Every frame how many circles to add
